@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maluterra
-- 👀 I’m interested in web applications, programming logic and mobile development.
-- 🌱 I’m currently learning php and deepening my knowledge in javascript.
-- 💞️ I’m looking to collaborate on te in an area that can improve my skills as a programmer.
+- 👋 Oi, Eu sou @maluterra
+- 👀 Eu me interesso por aplicações web, lógica de programação e desenvolvimento móvel.
+- 🌱 Atualmente estou aprendendo php e aprofundando meus conhecimentos em javascript.
+- 💞️ Estou procurando colaborar em uma área que possa melhorar minhas habilidades como programador.
 - 📫 How to reach me maluterra@gmail.com
 
 
